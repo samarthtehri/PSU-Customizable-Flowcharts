@@ -8,14 +8,14 @@ You can easily download a customizable 8+ semester flowchart of your major
 
 # Current Flowchart Majors
 As of now, the majors added in this customizable folder are:
--Actuarial Science
--Computational Data Sciences
--Computer Engineering
--Computer Science
--Data Science
--Electrical Engineering
--Marketing
--Sample/custom
+- Actuarial Science
+- Computational Data Sciences
+- Computer Engineering
+- Computer Science
+- Data Science
+- Electrical Engineering
+- Marketing
+- Sample/custom
 
 # Contribution:
 You can also contribute by creating your major's flowchart using the sample/custom file, and https://bulletins.psu.edu/programs/ website.
