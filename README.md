@@ -14,6 +14,7 @@ As of now, the majors added in this customizable folder are:
 - Computer Science
 - Data Science
 - Electrical Engineering
+- Finance
 - Marketing
 - Sample/custom
 
